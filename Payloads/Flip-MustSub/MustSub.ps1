@@ -1,7 +1,7 @@
 $channels = @"
-https://www.youtube.com/iamjakoby
-https://www.youtube.com/c/CosmodiumCS
-https://www.youtube.com/c/zSecurity
+https://www.youtube.com/channel/UCUx8Zj20bR2EUgq0Gp7GBcA
+https://www.youtube.com/channel/UC9li16XhBNrgDHIGE5AJaKw
+https://www.youtube.com/channel/UCcu5xoPEFPL6s7HR5cQ0Hgg
 https://www.youtube.com/c/SystemExploited/featured
 https://www.youtube.com/c/Lab401
 https://www.youtube.com/c/TheCyberMentor
